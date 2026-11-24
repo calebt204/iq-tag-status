@@ -7,3 +7,7 @@ function.zip
 .DS_Store
 coverage/
 *.log
+
+# local-only generated previews
+poc/test.html
+poc/preview.html
